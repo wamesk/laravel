@@ -1,0 +1,19 @@
+{
+	"name": "wamesk/laravel",
+	"type": "library",
+	"license": "proprietary",
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"Wame\\Laravel\\": "src/"
+		}
+	},
+	"minimum-stability": "stable",
+	"extra": {
+		"laravel": {
+			"providers": [
+				"Wame\\Laravel\\Providers\\LaravelServiceProvider"
+			]
+		}
+	}
+}
