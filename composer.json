@@ -1,10 +1,10 @@
 {
 	"name": "wamesk/laravel",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"type": "library",
 	"license": "proprietary",
 	"require": {
-		"laravel/framework": "^10.0|^11.0"
+		"laravel/framework": "^10.0|^11.0|^12.0"
 	},
 	"autoload": {
 		"psr-4": {
